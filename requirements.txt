@@ -1,6 +1,6 @@
-﻿appdirs==1.4.3
+appdirs==1.4.3
 astroid==2.3.3
-certifi==2019.11.28
+certifi==2023.7.22
 colorama==0.4.3
 cycler==0.10.0
 distlib==0.3.0
